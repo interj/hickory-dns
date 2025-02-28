@@ -15,7 +15,7 @@ members = [
 exclude = ["fuzz"]
 
 [workspace.package]
-version = "0.24.2"
+version = "0.24.4"
 authors = ["The contributors to Hickory DNS"]
 edition = "2021"
 rust-version = "1.71.1"
@@ -65,7 +65,7 @@ rustls = "0.21.6"
 rustls-native-certs = "0.6.3"
 rustls-pemfile = "1.0.0"
 webpki-roots = "0.25.0"
-ring = "0.16"
+ring = "0.17"
 
 
 # net proto
